@@ -1,5 +1,11 @@
 # Hi, I'm Jaime 👋
 
+## Projects
+
+| Repository | Description | Language |
+|---|---|---|
+| [NSGA-Framework](https://github.com/jaime-amate/NSGA-Framework) | Framework implementing NSGA-II and NSGA-III multi-objective genetic algorithms | Python |
+
 ## Open Source Contributions
 
 | Repository | Description | Language |
